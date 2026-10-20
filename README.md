@@ -21,9 +21,8 @@ to read. Four of them also appeared in AAAI's *AI Magazine* in August 2026.
 **You choose your own group, of three or four people.** Each group takes one of the six themes in
 `papers.md`, one group per theme, chosen in class.
 
-**This round gives you the reading.** Every theme comes with one paper. Read all of it. You do not need
-to follow every technical detail; read the introduction, the evaluation and the deployment sections
-closely.
+**This round gives you the reading.** Every theme comes with one paper. You do not need to follow every
+technical detail: under each paper, `papers.md` says which sections to read closely and which to skip.
 
 ## What this briefing practices
 
